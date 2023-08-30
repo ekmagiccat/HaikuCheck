@@ -1,7 +1,3 @@
-//import { syllable } from "syllable";
-//import {syllable} from 'https://esm.sh/syllable@5
-//import something from './../src/index.js';
-
 const storeState = () => {
   let currentState = {};
   return (stateChangeFunction = (state) => state) => {
@@ -17,7 +13,7 @@ const changeState = (prop) => {
   return (value) => {
     return (state) => ({
       ...state,
-      [prop]: (state[prop] || 0) + value,
+      [prop]: (state[prop] || "") + value,
     });
   };
 };
