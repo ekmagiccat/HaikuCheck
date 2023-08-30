@@ -1,13 +1,13 @@
-#### _By Aaron Demski, Casey Hill, Eva Kemp, Joshua Khan_
+#### _By Eva Kemp, Joshua Khan_
 
 ## Technologies Used
 
-* _Html_
-* _Css_
-* _JavaScript_
-* _TDD (Test-Driven-Development)_
-* _VsCode_
-* _GitHub_
+- _Html_
+- _Css_
+- _JavaScript_
+- _TDD (Test-Driven-Development)_
+- _VsCode_
+- _GitHub_
 
 ## Description
 
@@ -15,21 +15,20 @@ _Hope you enjoy!_
 
 ## Setup/Installation Requirements
 
-* _Clone my repository to your desktop using VsCode._
-* _In the terminal clone the repository with the command: git clone ""_
-* _Navigte to the top level of the directory._
-* _Open index.html in the file you cloned._
+- _Clone my repository to your desktop using VsCode._
+- _In the terminal clone the repository with the command: git clone ""_
+- _Navigte to the top level of the directory._
+- _Open index.html in the file you cloned._
 
 ## _Link To Site_
 
-* _https://github.com_
+- _https://github.com_
 
 ## Known Bugs
 
-* _No Known Bugs_
+- _No Known Bugs_
 
-## Tests: 
-
+## Tests:
 
 ## License
 
@@ -43,4 +42,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Copyright (c) _June 16th, 2023_ 
+Copyright (c) _2023_
